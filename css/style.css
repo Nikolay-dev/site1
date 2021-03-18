@@ -264,7 +264,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 22px;
   margin: 0px 0px 15px 0px;
   color: #FFFFFF;
-  background: url(../img/footer/social/telegram\.svg) left no-repeat;
+  background: url(/img/footer/social/telegram\.svg) left no-repeat;
   -webkit-transition: all 0.4s ease 0s;
   transition: all 0.4s ease 0s;
 }
@@ -282,7 +282,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 22px;
   margin: 0px 0px 15px 0px;
   color: #FFFFFF;
-  background: url(../img/footer/social/viber-logo.svg) left no-repeat;
+  background: url(/img/footer/social/viber-logo.svg) left no-repeat;
   -webkit-transition: all 0.4s ease 0s;
   transition: all 0.4s ease 0s;
 }
@@ -299,7 +299,7 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 17px;
   line-height: 22px;
   color: #FFFFFF;
-  background: url(../img/footer/social/whatsapp-logo.svg) left no-repeat;
+  background: url(/img/footer/social/whatsapp-logo.svg) left no-repeat;
   -webkit-transition: all 0.4s ease 0s;
   transition: all 0.4s ease 0s;
 }
@@ -319,7 +319,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .writetous .call__phone span {
-  background: url(../img/footer/call/call-answer.svg) 1px no-repeat;
+  background: url(/img/footer/call/call-answer.svg) 1px no-repeat;
 }
 
 .writetous .call__email {
@@ -328,7 +328,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .writetous .call__email span {
-  background: url(../img/footer/call/mail.svg) 1px no-repeat;
+  background: url(/img/footer/call/mail.svg) 1px no-repeat;
 }
 
 .writetous__btn {
@@ -371,7 +371,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .header__bg {
-  background: url(../img/header/background.png) right top no-repeat;
+  background: url(/img/header/background.png) right top no-repeat;
   background-size: contain;
 }
 
@@ -590,7 +590,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .call__phone span {
-  background: url(../img/header/call-answer.svg) left 5px no-repeat;
+  background: url(/img/header/call-answer.svg) left 5px no-repeat;
   background-size: 14px;
   padding: 0px 0px 0px 26px;
 }
@@ -598,7 +598,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 992.98px) {
   .call__phone span {
     padding: 0px 0px 0px 22px;
-    background: url(../img/header/call-answer.svg) left no-repeat;
+    background: url(/img/header/call-answer.svg) left no-repeat;
     background-size: 16px;
   }
 }
@@ -648,7 +648,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .call__email span {
-  background: url(../img/header/message.svg) left 4px no-repeat;
+  background: url(/img/header/message.svg) left 4px no-repeat;
   padding: 0px 0px 0px 26px;
 }
 
@@ -1317,7 +1317,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .sale__bg {
-  background: url(../img/news/bg.png) right no-repeat;
+  background: url(/img/news/bg.png) right no-repeat;
 }
 
 .sale__title {
@@ -1524,7 +1524,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .banner__bg {
-  background: url(../img/certification/bg.png) right no-repeat;
+  background: url(/img/certification/bg.png) right no-repeat;
   background-color: #FAFAFB;
   padding: 50px 0px 50px 0px;
 }
